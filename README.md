@@ -93,12 +93,9 @@ Enter your choice:
 
 ## 👨‍💻 About the Developer
 
-**👤 Shankar K**  
-🎓 Student at [Your College Name]  
-📧 25008_008@yourmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-💻 [GitHub](https://github.com/yourusername)
-
+**👤 Shankar K**   
+📧 shankarkumar98941@gmail.com  
+🔗 [LinkedIn] : https://www.linkedin.com/in/shankar-kumar26/
 ---
 
 ## 📎 License
